@@ -1,5 +1,4 @@
-# Reading Between the Lines: A Study on Information Extraction and Model Adaptation on Implicit Text
-
+# Information Extraction from Implicit Text: Evaluating and Adapting Large Language Models
 Text Implicitness has always been a challenge in the field of Natural Language Processing (NLP), with traditional methods that rely on explicit statements to identify entities, relationships and events. For instance, "Maria attends church every Sunday" implicitly suggests that Maria's religion is Christian, where the sentence's meaning is inferred from a religious frame.  
 Although this text does not require specific domain knowledge for comprehension, it presents a moderate level of complexity arising from relationships often inferred through contextual cues rather than explicitly stated.
 Large language models (LLMs) have proven their effectiveness in NLP downstream tasks such as text comprehension, text generation, and information extraction (IE). 
